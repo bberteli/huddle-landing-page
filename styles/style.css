@@ -131,7 +131,7 @@ p {
 
   .content {
     flex-direction: row;
-    gap: 60px;
+    gap: 3.5em;
     align-items: flex-start;
   }
 
@@ -140,7 +140,7 @@ p {
   }
 
   .text {
-    padding-top: 2.4em;
+    padding-top: 2.6em;
     flex: 1;
     text-align: left;
     height: inherit;
